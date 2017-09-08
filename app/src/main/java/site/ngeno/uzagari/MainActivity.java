@@ -1,5 +1,6 @@
 package site.ngeno.uzagari;
 
+
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
